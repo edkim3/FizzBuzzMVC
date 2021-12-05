@@ -61,7 +61,7 @@ namespace FizzBuzzMVC.Controllers
                     fbItems.Add("Buzz");
                 } else
                 {
-                    fbItems.Add(i.ToString();
+                    fbItems.Add(i.ToString());
                 }
             }
 
